@@ -1,4 +1,4 @@
-# example-repo
+# my-first-repo
 
 testing repository
 testing again
